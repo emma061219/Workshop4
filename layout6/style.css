@@ -1,0 +1,42 @@
+div{
+    outline: 1px solid lime;
+}
+.container{
+    width:920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: blue;
+    height: 200px;
+    width: 460px;
+    float:left;
+}
+.submenu{
+    background-color: green;
+    width: 920px;
+    height: 200px;
+    float: left;
+}
+.redbox{
+    background-color: red;
+    width:920px;
+    height: 400px;
+    float:left;
+}
+.smallyellow{
+    height: 170px;
+    width: 205px;
+    background-color: yellow;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.bigyellow{
+    height: 170px;
+    width: 430px;
+    background-color: yellow;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
