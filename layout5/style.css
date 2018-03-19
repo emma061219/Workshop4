@@ -1,0 +1,56 @@
+div{
+    outline: 1px solid lime;
+}
+.container{
+    width:920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: blue;
+    height: 200px;
+    width: 920px;
+}
+.yellowbox{
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.submenu{
+    background-color: red;
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+.content{
+    height: 400px;
+    width: 620px;
+    float:left;
+    background-color: red;
+   
+    }
+.smallbox{
+    background-color: yellow;
+    width: 160px;
+    height: 160px;
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.bigbox{
+    background-color: yellow;
+    width: 400px;
+    height: 300px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.footer{
+    background-color: green;
+    height: 200px;
+    width: 920px;
+    float: left;
+}
